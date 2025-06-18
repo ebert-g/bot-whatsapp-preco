@@ -48,3 +48,10 @@ build/
 .parcel-cache
 .next
 .nuxt
+
+# whatsapp-web.js session and cache folders
+.wwebjs_auth/
+.wwebjs_cache/
+
+# Data
+data/

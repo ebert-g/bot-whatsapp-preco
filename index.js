@@ -1,7 +1,8 @@
 const { Client, LocalAuth } = require("whatsapp-web.js");
 const qrcode = require("qrcode-terminal");
 const { lerProdutosDaPlanilha } = require("./utils/planilha");
-const produtos = lerProdutosDaPlanilha();
+// modo antigo usando planilha generica const produtos = lerProdutosDaPlanilha();
+const produtos = require("./data/produtos_limpos.json");
 const { verificarPedidoPreco } = require("./utils/analiseMensagem");
 const { registrarLog } = require("./utils/log");
 
