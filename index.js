@@ -1,20 +1,21 @@
 const { Client, LocalAuth } = require("whatsapp-web.js");
 const qrcode = require("qrcode-terminal");
-const { lerProdutosDaPlanilha } = require("./utils/planilha");
-// modo antigo usando planilha generica const produtos = lerProdutosDaPlanilha();
-const produtos = require("./data/produtos_limpos.json");
+const produtos = require("./data/produtos_novo.json");
 const { verificarPedidoPreco } = require("./utils/analiseMensagem");
 const { registrarLog } = require("./utils/log");
+const { buscarProduto } = require("./utils/buscador");
 
 const client = new Client({
     authStrategy: new LocalAuth(),
 });
 
+// QR code para login
 client.on("qr", (qr) => {
     qrcode.generate(qr, { small: true });
-    console.log("🟢 Escaneie o QR code acima no WhatsApp");
+    console.log("🟢 Escaneie o QR code no WhatsApp");
 });
 
+// Confirma quando conectado
 client.on("ready", () => {
     console.log("✅ Bot conectado com sucesso!");
 });
@@ -22,41 +23,51 @@ client.on("ready", () => {
 client.on("message", async (message) => {
     const msg = message.body.toLowerCase();
     const { isPedido, metodo } = verificarPedidoPreco(msg);
+
     if (isPedido) {
-        const produtoEncontrado = produtos.find((p) => {
-            const nomeProduto = p.Produto.toLowerCase();
-            const palavrasProduto = nomeProduto.split(" ");
+        const resultado = buscarProduto(produtos, msg);
 
-            const todasPalavrasNaMsg = palavrasProduto.every((palavra) =>
-                msg.includes(palavra)
-            );
+        if (resultado.exato) {
+            const resposta = `📦 Produto encontrado:\n\n${resultado.exato.nome} - R$ ${resultado.exato.preco}`;
+            await message.reply(resposta);
 
-            return todasPalavrasNaMsg;
-        });
+            registrarLog({
+                dataHora: new Date().toISOString(),
+                mensagemCliente: msg,
+                metodoDeteccao: metodo,
+                produtoEncontrado: resultado.exato,
+                respostaEnviada: resposta,
+            });
+        } else if (resultado.similares.length > 0) {
+            const sugestoes = resultado.similares
+                .slice(0, 5)
+                .map((p, i) => `#${i + 1} ${p.nome} - R$ ${p.preco}`)
+                .join("\n");
 
-        let resposta = "";
+            const resposta = `🤔 Não encontrei exato, mas veja opções:\n\n${sugestoes}`;
+            await message.reply(resposta);
 
-        if (produtoEncontrado) {
-            resposta = `📦 O produto '${
-                produtoEncontrado.Produto
-            }' custa R$ ${produtoEncontrado.Preco.toFixed(2)}`;
+            registrarLog({
+                dataHora: new Date().toISOString(),
+                mensagemCliente: msg,
+                metodoDeteccao: metodo,
+                produtoEncontrado: null,
+                respostaEnviada: resposta,
+            });
         } else {
-            resposta = "❌ Desculpe, não encontrei esse produto.";
+            const resposta = "❌ Desculpe, não encontrei produtos parecidos.";
+            await message.reply(resposta);
+
+            registrarLog({
+                dataHora: new Date().toISOString(),
+                mensagemCliente: msg,
+                metodoDeteccao: metodo,
+                produtoEncontrado: null,
+                respostaEnviada: resposta,
+            });
         }
-
-        //Responde Cliente
-        await message.reply(resposta);
-
-        //Registrar log
-        registrarLog({
-            mensagemCliente: msg,
-            metodoDeteccao: metodo,
-            produtoEncontrado: produtoEncontrado
-                ? produtoEncontrado.Produto
-                : null,
-            respostaEnviada: resposta,
-        });
     }
 });
 
+// Inicializa o cliente!
 client.initialize();
