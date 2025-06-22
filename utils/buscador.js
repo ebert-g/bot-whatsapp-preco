@@ -51,4 +51,4 @@ function buscarProduto(produtos, msgCliente) {
     return { exato: null, similares };
 }
 
-module.exports = { buscarProduto };
+module.exports = { buscarProduto, normalizarTexto };

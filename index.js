@@ -21,7 +21,7 @@ client.on("ready", () => {
 });
 
 client.on("message", async (message) => {
-    const msg = message.body.toLowerCase();
+    const msg = message.body;
     const { isPedido, metodo } = verificarPedidoPreco(msg);
 
     if (isPedido) {

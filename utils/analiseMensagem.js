@@ -1,4 +1,6 @@
-const palavraChave = [
+const { normalizarPreco, normalizarTexto } = require("./buscador");
+
+const palavraChavePreco = [
     "quanto",
     "preço",
     "custa",
@@ -12,13 +14,28 @@ const palavraChave = [
     "tem valor",
 ];
 
+// 👉 Lista de palavras de peça
+const palavraChavePeca = [
+    "tela",
+    "bateria",
+    "frontal",
+    "camera",
+    "flex",
+    "touch",
+    "botão",
+    "display",
+];
+
 const regexPreco = /(quanto custa|qual o preço|valor da|preço da|tá quanto)/i;
 
 function verificarPedidoPreco(msg) {
-    const mensagem = msg.toLowerCase();
+    const mensagem = normalizarTexto(msg);
 
-    const temKeyWord = palavraChave.some((p) => mensagem.includes(p));
-    if (temKeyWord) {
+    // Verifica se tem palavra de preço ou peça
+    const temKeyPreco = palavraChavePreco.some((p) => mensagem.includes(p));
+    const temKeyPeca = palavraChavePeca.some((p) => mensagem.includes(p));
+
+    if (temKeyPreco || temKeyPeca) {
         return { isPedido: true, metodo: "keyword" };
     }
 
