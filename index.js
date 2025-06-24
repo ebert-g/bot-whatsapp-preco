@@ -1,6 +1,5 @@
 const { Client, LocalAuth } = require("whatsapp-web.js");
 const qrcode = require("qrcode-terminal");
-const produtos = require("./data/produtos_novo.json");
 const { verificarPedidoPreco } = require("./utils/analiseMensagem");
 const { registrarLog } = require("./utils/log");
 const { buscarProduto } = require("./utils/buscador");
@@ -25,7 +24,7 @@ client.on("message", async (message) => {
     const { isPedido, metodo } = verificarPedidoPreco(msg);
 
     if (isPedido) {
-        const resultado = buscarProduto(produtos, msg);
+        const resultado = await buscarProduto(msg);
 
         if (resultado.exato) {
             const resposta = `📦 Produto encontrado:\n\n${resultado.exato.nome} - R$ ${resultado.exato.preco}`;

@@ -1,4 +1,6 @@
+const Fuse = require("fuse.js");
 const removerAcentos = require("remove-accents");
+const pool = require("./conector");
 
 //Normaliza texto para facilitar comparação
 
@@ -9,46 +11,50 @@ function normalizarTexto(texto) {
         .trim();
 }
 
-// conta as palavras do cliente que batem com o nome do produto
+// 2️⃣ Buscar produto com Fuse.js
 
-function pontuarProduto(produtoNome, palavrasCliente) {
-    const produtosPalavras = normalizarTexto(produtoNome).split(/\s+/);
-    let pontos = 0;
+async function buscarProduto(mensagem) {
+    let textoCliente = normalizarTexto(mensagem);
 
-    palavrasCliente.forEach((p) => {
-        if (produtosPalavras.includes(p)) {
-            pontos++;
-        }
+    // Remove palavras comuns
+    const lixo = [
+        "quanto",
+        "preco",
+        "valor",
+        "custa",
+        "qual",
+        "tela",
+        "com aro",
+        "aro",
+        "o",
+        "a",
+        "do",
+        "da",
+    ];
+    lixo.forEach((palavra) => {
+        textoCliente = textoCliente.replace(palavra, "");
     });
 
-    return pontos;
-}
+    textoCliente = textoCliente.trim();
 
-// busca produto exato ou similares
-function buscarProduto(produtos, msgCliente) {
-    const palavrasCliente = normalizarTexto(msgCliente).split(/\s+/);
+    const [produtos] = await pool.query("SELECT * FROM produtos");
 
-    // 1 - tenta matching hard (todas as palavras precisam bater)
-    const exato = produtos.find((prod) => {
-        const prodPalavras = normalizarTexto(prod.nome).split(/\s+/);
-        return palavrasCliente.every((p) => prodPalavras.includes(p));
-    });
+    const options = {
+        keys: ["nome"],
+        threshold: 0.5,
+    };
 
-    if (exato) {
-        return { exato, similares: [] };
+    const fuse = new Fuse(produtos, options);
+    const resultados = fuse.search(textoCliente);
+    let exato = null;
+    let similares = [];
+
+    if (resultados.length > 0) {
+        exato = resultados[0].item;
+        similares = resultados.slice(1).map((r) => r.item);
     }
 
-    const pontuados = produtos.map((prod) => ({
-        produto: prod,
-        pontos: pontuarProduto(prod.nome, palavrasCliente),
-    }));
-
-    const similares = pontuados
-        .filter((p) => p.pontos > 0)
-        .sort((a, b) => b.pontos - a.pontos)
-        .map((p) => p.produto);
-
-    return { exato: null, similares };
+    return { exato, similares };
 }
 
-module.exports = { buscarProduto, normalizarTexto };
+module.exports = { normalizarTexto, buscarProduto };
