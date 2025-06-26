@@ -1,6 +1,6 @@
 const Fuse = require("fuse.js");
 const removerAcentos = require("remove-accents");
-const pool = require("./conector");
+const pool = require("../dados/conector");
 
 //Normaliza texto para facilitar comparação
 

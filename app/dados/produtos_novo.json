@@ -1,0 +1,4672 @@
+[
+  {
+    "nome": "5G",
+    "preco": 30.0,
+    "marca": "iphone"
+  },
+  {
+    "nome": "6 PLUS    P",
+    "preco": 55.0,
+    "marca": "iphone"
+  },
+  {
+    "nome": "6S  P/B",
+    "preco": 45.0,
+    "marca": "iphone"
+  },
+  {
+    "nome": "6S ZL   P",
+    "preco": 75.0,
+    "marca": "iphone"
+  },
+  {
+    "nome": "6S PLUS  P",
+    "preco": 55.0,
+    "marca": "iphone"
+  },
+  {
+    "nome": "7 PLUS  P",
+    "preco": 55.0,
+    "marca": "iphone"
+  },
+  {
+    "nome": "7 PLUS ZL    P",
+    "preco": 90.0,
+    "marca": "iphone"
+  },
+  {
+    "nome": "7G  ",
+    "preco": 45.0,
+    "marca": "iphone"
+  },
+  {
+    "nome": "7G ZL   P",
+    "preco": 75.0,
+    "marca": "iphone"
+  },
+  {
+    "nome": "8G  P/B",
+    "preco": 45.0,
+    "marca": "iphone"
+  },
+  {
+    "nome": "8G ZL  P/B",
+    "preco": 70.0,
+    "marca": "iphone"
+  },
+  {
+    "nome": "8 PLUS P/B",
+    "preco": 55.0,
+    "marca": "iphone"
+  },
+  {
+    "nome": "8 PLUS ZL  P",
+    "preco": 90.0,
+    "marca": "iphone"
+  },
+  {
+    "nome": "X IN ZL",
+    "preco": 80.0,
+    "marca": "iphone"
+  },
+  {
+    "nome": "X ORI ZL",
+    "preco": 145.0,
+    "marca": "iphone"
+  },
+  {
+    "nome": "X  NAC  RETIRADO",
+    "preco": 310.0,
+    "marca": "iphone"
+  },
+  {
+    "nome": "XR ZL ",
+    "preco": 90.0,
+    "marca": "iphone"
+  },
+  {
+    "nome": "XS IN ZL ",
+    "preco": 80.0,
+    "marca": "iphone"
+  },
+  {
+    "nome": "XS ORI ZL",
+    "preco": 145.0,
+    "marca": "iphone"
+  },
+  {
+    "nome": "XS NAC  ",
+    "preco": 310.0,
+    "marca": "iphone"
+  },
+  {
+    "nome": "XS MAX IN FHD ZL ",
+    "preco": 100.0,
+    "marca": "iphone"
+  },
+  {
+    "nome": "XS MAX ORI ",
+    "preco": 200.0,
+    "marca": "iphone"
+  },
+  {
+    "nome": "XS MAX  NAC RETIRADO",
+    "preco": 520.0,
+    "marca": "iphone"
+  },
+  {
+    "nome": "X11 ZL TROCA CI ",
+    "preco": 90.0,
+    "marca": "iphone"
+  },
+  {
+    "nome": "X11 NAC",
+    "preco": 300.0,
+    "marca": "iphone"
+  },
+  {
+    "nome": "11 PRO IN ZL TROCA CI",
+    "preco": 100.0,
+    "marca": "iphone"
+  },
+  {
+    "nome": "11 PRO ORI ZL  TROCA Ci",
+    "preco": 175.0,
+    "marca": "iphone"
+  },
+  {
+    "nome": "11 PRO NAC  ZERO",
+    "preco": 450.0,
+    "marca": "iphone"
+  },
+  {
+    "nome": "11 PRO MAX IN FHD ZL",
+    "preco": 100.0,
+    "marca": "iphone"
+  },
+  {
+    "nome": "11 PRO MAX ORI TROCA Ci ZL ",
+    "preco": 210.0,
+    "marca": "iphone"
+  },
+  {
+    "nome": "11 PRO MAX  NAC RETIRADO",
+    "preco": 520.0,
+    "marca": "iphone"
+  },
+  {
+    "nome": "12 MINI ORI ",
+    "preco": 300.0,
+    "marca": "iphone"
+  },
+  {
+    "nome": "12 MINI ORI TROCA Ci",
+    "preco": 330.0,
+    "marca": "iphone"
+  },
+  {
+    "nome": "12 MINI NAC",
+    "preco": 350.0,
+    "marca": "iphone"
+  },
+  {
+    "nome": "12/ 12 PRO IN ZL TROCA CI",
+    "preco": 100.0,
+    "marca": "iphone"
+  },
+  {
+    "nome": "12/ 12 PRO ORI ZL  TROCA CI",
+    "preco": 210.0,
+    "marca": "iphone"
+  },
+  {
+    "nome": "12/ 12 PRO NAC  RETIRADO",
+    "preco": 510.0,
+    "marca": "iphone"
+  },
+  {
+    "nome": "12 PRO MAX IN ZL TROCA CI",
+    "preco": 120.0,
+    "marca": "iphone"
+  },
+  {
+    "nome": "12 PRO MAX ORI  TROCA CI ZL",
+    "preco": 380.0,
+    "marca": "iphone"
+  },
+  {
+    "nome": "12 PRO MAX  NAC RETIRADO",
+    "preco": 970.0,
+    "marca": "iphone"
+  },
+  {
+    "nome": "13 MINI NAC",
+    "preco": 500.0,
+    "marca": "iphone"
+  },
+  {
+    "nome": "IPHONE 13 IN ",
+    "preco": 190.0,
+    "marca": "iphone"
+  },
+  {
+    "nome": "IPHONE 13 ORI TROCA CI",
+    "preco": 380.0,
+    "marca": "iphone"
+  },
+  {
+    "nome": "IPHONE 13 NAC ",
+    "preco": 770.0,
+    "marca": "iphone"
+  },
+  {
+    "nome": "13 PRO IN TROCA CI ZL 高刷-120HZ",
+    "preco": 200.0,
+    "marca": "iphone"
+  },
+  {
+    "nome": "13 PRO ORI TROCA CI",
+    "preco": 460.0,
+    "marca": "iphone"
+  },
+  {
+    "nome": "13 PRO MAX IN TROCA CI  高刷-120HZ",
+    "preco": 220.0,
+    "marca": "iphone"
+  },
+  {
+    "nome": "13 PRO MAX ORI TROCA CI  高刷-120HZ",
+    "preco": 600.0,
+    "marca": "iphone"
+  },
+  {
+    "nome": "13 PRO MAX  NAC ZERO",
+    "preco": 1650.0,
+    "marca": "iphone"
+  },
+  {
+    "nome": "IPHONE 14 IN TROCA CI",
+    "preco": 110.0,
+    "marca": "iphone"
+  },
+  {
+    "nome": "IPHONE 14 ORI FOG",
+    "preco": 600.0,
+    "marca": "iphone"
+  },
+  {
+    "nome": "IPHONE 14 NAC",
+    "preco": 1050.0,
+    "marca": "iphone"
+  },
+  {
+    "nome": "IPHONE 14 PLUS NAC ",
+    "preco": 1150.0,
+    "marca": "iphone"
+  },
+  {
+    "nome": "14 PRO IN TROCA CI ZL   高刷-120HZ",
+    "preco": 220.0,
+    "marca": "iphone"
+  },
+  {
+    "nome": "14 PRO NAC ZERO",
+    "preco": 1650.0,
+    "marca": "iphone"
+  },
+  {
+    "nome": "14 PRO MAX IN TROCA CI  高刷-120HZ",
+    "preco": 270.0,
+    "marca": "iphone"
+  },
+  {
+    "nome": "14 PRO MAX ORI TROCA CI   高刷-120HZ",
+    "preco": 1000.0,
+    "marca": "iphone"
+  },
+  {
+    "nome": "14 PRO MAX ORI FOG TROCA CI",
+    "preco": 1150.0,
+    "marca": "iphone"
+  },
+  {
+    "nome": "IPHONE 15 IN TROCA CI ",
+    "preco": 280.0,
+    "marca": "iphone"
+  },
+  {
+    "nome": "15 PRO IN TROCA CI  高刷-120HZ",
+    "preco": 230.0,
+    "marca": "iphone"
+  },
+  {
+    "nome": "15 PRO ORI FOG TROCA IC",
+    "preco": 1650.0,
+    "marca": "iphone"
+  },
+  {
+    "nome": "15 PRO MAX IN TROCA CI  高刷-120HZ",
+    "preco": 260.0,
+    "marca": "iphone"
+  },
+  {
+    "nome": "15 PRO MAX ORI TROCA CI 高刷-120HZ",
+    "preco": 1200.0,
+    "marca": "iphone"
+  },
+  {
+    "nome": "A01 CORE ORI ",
+    "preco": 45.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A01 CORE  ZL",
+    "preco": 50.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A01 CORE  C/A",
+    "preco": 55.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A01 CORE  C/A ZL",
+    "preco": 70.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A01 ORI",
+    "preco": 40.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A01 ZL",
+    "preco": 45.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A01 C/A",
+    "preco": 55.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A01 C/A ZL",
+    "preco": 70.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A02 / A12 / A32 5G / M12  ORI",
+    "preco": 45.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A02 / A12 / A32 5G / M12  ZL",
+    "preco": 50.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A02 C/A",
+    "preco": 60.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A02 C/A ZL",
+    "preco": 75.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A022 C/A ZL",
+    "preco": 90.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A02S / A03 /A03S / A04E  ORI",
+    "preco": 45.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A02S / A03 /A03S / A04E ZL",
+    "preco": 50.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A02S C/A ",
+    "preco": 60.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A02S C/A ZL",
+    "preco": 70.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A03 C/A",
+    "preco": 60.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A03 C/A ZL",
+    "preco": 75.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A03S C/A ",
+    "preco": 60.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A03S C/A ZL",
+    "preco": 75.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A03 CORE ORI",
+    "preco": 45.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A03 CORE  ZL",
+    "preco": 50.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A03 CORE C/A",
+    "preco": 65.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A03 CORE C/A ZL",
+    "preco": 75.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A04 ORI",
+    "preco": 50.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A04 C/A",
+    "preco": 60.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A04 C/A ZL",
+    "preco": 75.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A04E C/A",
+    "preco": 65.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A04E C/A ZL",
+    "preco": 80.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A04S / A13 5G  ZL",
+    "preco": 55.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A04S  C/A ZL",
+    "preco": 80.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A05  ZL",
+    "preco": 60.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A05  C/A ZL",
+    "preco": 85.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A05S  ZL",
+    "preco": 70.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A05S  C/A ZL",
+    "preco": 110.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A06  ZL ",
+    "preco": 60.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A06  C/A ZL",
+    "preco": 100.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A10 ORI",
+    "preco": 45.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A10  ZL",
+    "preco": 50.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A10  C/A",
+    "preco": 55.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A10  C/A ZL",
+    "preco": 75.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A10S ORI ",
+    "preco": 50.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A10S  ZL",
+    "preco": 55.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A10S  C/A",
+    "preco": 55.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A10S  C/A ZL",
+    "preco": 75.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A11 ORI ",
+    "preco": 50.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A11  ZL",
+    "preco": 55.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A11 C/A",
+    "preco": 65.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A11 C/A ZL",
+    "preco": 75.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A12 C/A ",
+    "preco": 60.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A12 C/A ZL",
+    "preco": 75.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A127 C/A ZL",
+    "preco": 75.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A13 4G ZL 单通- so dar nele",
+    "preco": 55.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A13 4G/A23 4G/5G/M13/M23/M336B ORI ",
+    "preco": 60.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A13 4G/A23 4G/5G/M13/M23/M336B ZL",
+    "preco": 60.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A13 4G  C/A",
+    "preco": 65.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A13 4G C/A ZL ",
+    "preco": 85.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A13 5G C/A",
+    "preco": 65.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A13 5G C/A ZL",
+    "preco": 85.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A14 4G/ A145P  ORI",
+    "preco": 55.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A14 4G C/A ",
+    "preco": 65.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A14 4G C/A ZL",
+    "preco": 80.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A14 5G  ORI",
+    "preco": 60.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A14 5G  ZL ",
+    "preco": 60.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A14 5G C/A ",
+    "preco": 75.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A14 5G C/A  ZL",
+    "preco": 100.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A15 IN C/A ZL",
+    "preco": 95.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A15 ORI C/A",
+    "preco": 160.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A15 ORI C/A ZL",
+    "preco": 220.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A15 NAC C/A",
+    "preco": 400.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A16 ORI ",
+    "preco": 240.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A16 4G ORI C/A ZL ",
+    "preco": 270.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A16 4G NAC C/A",
+    "preco": 420.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A16 5G NAC C/A",
+    "preco": 450.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A20 ORI",
+    "preco": 125.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A20 IN C/A TELA GRANDE",
+    "preco": 60.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A20 ORI C/A",
+    "preco": 135.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A20 ORI C/A  ZL",
+    "preco": 150.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A20 NAC C/A",
+    "preco": 250.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A20S ORI",
+    "preco": 50.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A20S  ZL",
+    "preco": 50.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A20S  C/A",
+    "preco": 60.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A20S  C/A ZL",
+    "preco": 80.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A21   C/A",
+    "preco": 65.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A21S  ORI",
+    "preco": 50.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A21S  ZL ",
+    "preco": 55.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A21S  C/A",
+    "preco": 60.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A21S  C/A ZL",
+    "preco": 80.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A22 4G IN",
+    "preco": 65.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A22 4G ORI   TELA INFINITA",
+    "preco": 135.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A22 4G IN C/A",
+    "preco": 70.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A22 4G ORI C/A ",
+    "preco": 140.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A22 4G ORI C/A ZL",
+    "preco": 160.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A22 4G NAC S/A",
+    "preco": 210.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A22 4G NAC C/A",
+    "preco": 260.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A22 5G  ORI",
+    "preco": 60.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A22 5G  ZL",
+    "preco": 60.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A22 5G  C/A ",
+    "preco": 80.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A22 5G  C/A ZL ",
+    "preco": 85.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A23 4G  C/A ZL",
+    "preco": 90.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A23 5G C/A  ZL ",
+    "preco": 90.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A24/A25/M34 ORI S/A TELA REDUZIDA",
+    "preco": 145.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A24   IN  C/A  ZL ",
+    "preco": 90.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A24  ORI C/A  TELA PEQ. ZL",
+    "preco": 200.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A24  ORI C/A  TELA MED. ZL ",
+    "preco": 210.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A24  ORI C/A  TELA GRAN. ZL",
+    "preco": 260.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A24 NAC C/A",
+    "preco": 480.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A25 IN  C/A ZL",
+    "preco": 100.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A25  ORI  C/A ZL",
+    "preco": 210.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A25 NAC C/A",
+    "preco": 450.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A30/A50 ORI  ",
+    "preco": 120.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A30 / A50 IN C/A TELA GRANDE ",
+    "preco": 70.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A30 / A50 ORI C/A",
+    "preco": 140.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A30 / A50  C/A ZL ",
+    "preco": 150.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A30S IN  TELA GRANDE ",
+    "preco": 50.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A30S ORI",
+    "preco": 120.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A30S IN C/A",
+    "preco": 60.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A30S ORI C/A",
+    "preco": 140.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A30S ORI C/A ZL",
+    "preco": 150.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A30S NAC C/A",
+    "preco": 320.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A31 ORI  TELA INFINITA ",
+    "preco": 135.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A31 IN C/A TELA GRANDE",
+    "preco": 65.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A31 ORI C/A",
+    "preco": 140.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A31 ORI C/A ZL",
+    "preco": 150.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A31 NAC C/A",
+    "preco": 350.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A32 4G ORI   TELA INFINITA",
+    "preco": 140.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A32 4G IN C/A",
+    "preco": 70.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A32 4G ORI C/A",
+    "preco": 150.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A32 4G ORI C/A ZL",
+    "preco": 160.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A32 4G NAC C/A",
+    "preco": 350.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A32 5G FLEX PRETA",
+    "preco": 60.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A32 5G C/A",
+    "preco": 70.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A32 5G C/A ZL ",
+    "preco": 85.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A33 IN C/A ",
+    "preco": 95.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A33 ORI C/A  ZL",
+    "preco": 210.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A33 NAC C/A",
+    "preco": 400.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A34 IN C/A  ",
+    "preco": 120.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A34 ORI C/A  ZL  ",
+    "preco": 220.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A34 NAC  C/A",
+    "preco": 530.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A35 ORI C/A  ZL",
+    "preco": 230.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A35 NAC C/A ",
+    "preco": 420.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A50 NAC C/A",
+    "preco": 330.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A51 IN",
+    "preco": 55.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A51 IN C/A TELA GRANDE ",
+    "preco": 70.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A51 IN C/A ZL  ",
+    "preco": 90.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A51 ORI C/A TELA PEQUENA",
+    "preco": 140.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A51 ORI C/A ZL  ",
+    "preco": 180.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A51 NAC C/A",
+    "preco": 430.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A52/ A52S  IN",
+    "preco": 65.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A52 /A52S  IN C/A",
+    "preco": 80.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A52 / A52S ORI C/A TELA PEQUENA",
+    "preco": 170.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A52 / A52S ORI C/A ZL  P/PRATA/ R/A",
+    "preco": 230.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A52 / A52S NAC C/A",
+    "preco": 450.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A53 IN C/A",
+    "preco": 95.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A53 ORI C/A TELA PEQUENA",
+    "preco": 170.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A53 ORI  C/A ZL   P",
+    "preco": 240.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A53 NAC  C/A    P/B/AZUL/D",
+    "preco": 500.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A54 ORI C/A TELA PEQUENA",
+    "preco": 170.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A54 ORI  C/A ZL   P",
+    "preco": 230.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A54 NAC  C/A",
+    "preco": 460.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A55 ORI  C/A ZL ",
+    "preco": 260.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A55 NAC S/A",
+    "preco": 450.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A55 NAC C/A ",
+    "preco": 470.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A70 IN",
+    "preco": 65.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A70 IN C/A TELA GRANDE ",
+    "preco": 70.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A70 IN  C/A ZL  ",
+    "preco": 85.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A70 ORI C/A TELA PEQUENO ",
+    "preco": 140.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A70 ORI  C/A ZL ",
+    "preco": 210.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A70 NAC C/A",
+    "preco": 400.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A71 / M62 IN ",
+    "preco": 65.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A71 IN C/A TELA GRANDE ",
+    "preco": 80.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A71 IN  C/A ZL  ",
+    "preco": 85.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A71 ORI C/A TELA PEQUENO",
+    "preco": 145.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A71 ORI C/A ZL ",
+    "preco": 220.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A71 NAC C/A",
+    "preco": 550.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A72 IN C/A TELA GRANDE ",
+    "preco": 100.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A72 IN  C/A ZL ",
+    "preco": 100.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A72 ORI C/A TELA PEQUENA",
+    "preco": 170.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A72 ORI C/A ZL A/R/S",
+    "preco": 220.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A72 NAC C/A",
+    "preco": 450.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A73 ORI  C/A ZL  PRATA",
+    "preco": 240.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A73 NAC C/A",
+    "preco": 480.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "M12 / M127  C/A ZL",
+    "preco": 80.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "M13  C/A ZL",
+    "preco": 90.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "M14 5G / M146B   ZL",
+    "preco": 65.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "M14 5G  C/A ZL",
+    "preco": 90.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "M15 ORI C/A ZL ",
+    "preco": 220.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "M15 NAC C/A",
+    "preco": 400.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "M20 ZL ",
+    "preco": 55.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "M20 C/A",
+    "preco": 60.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "M20 C/A ZL",
+    "preco": 80.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "M22 ORI C/A",
+    "preco": 145.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "M22 ORI C/A ZL",
+    "preco": 160.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "M22 NAC C/A",
+    "preco": 250.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "M23 / M33 C/A ZL ",
+    "preco": 100.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "M30/M31 /M21/M21S IN ",
+    "preco": 60.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "M30/M31 /M21/M21S ORI  ",
+    "preco": 120.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "M30/M31 IN C/A",
+    "preco": 65.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "M30/M31 ORI C/A",
+    "preco": 140.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "M30 ORI  C/A ZL ",
+    "preco": 155.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "M31/M21S   NAC C/A",
+    "preco": 350.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "M32  IN  C/A",
+    "preco": 80.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "M32 ORI C/A",
+    "preco": 150.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "M32 ORI  C/A ZL",
+    "preco": 165.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "M32 NAC C/A",
+    "preco": 350.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "M34 ORI  C/A  ZL ",
+    "preco": 230.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "M35 ORI  C/A  ZL ",
+    "preco": 260.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "M51 ORI S/A",
+    "preco": 145.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "M51 IN C/A",
+    "preco": 95.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "M51 ORI C/A  TELA PEQUENO",
+    "preco": 170.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "M51 ORI C/A ZL",
+    "preco": 240.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "M51 NAC C/A",
+    "preco": 320.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "M52 ORI S/A",
+    "preco": 140.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "M52 ORI  C/A ZL",
+    "preco": 250.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "M52 NAC C/A",
+    "preco": 500.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "M53 ORI C/A ZL",
+    "preco": 250.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "M53 NAC C/A",
+    "preco": 470.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "M54 ORI   C/A ZL",
+    "preco": 230.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "M54 NAC C/A",
+    "preco": 530.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "M55 ORI C/A ZL ",
+    "preco": 350.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "M55 NAC S/A",
+    "preco": 350.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "M55 NAC C/A",
+    "preco": 470.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "M62 IN C/A",
+    "preco": 80.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "M62 ORI C/A ZL ",
+    "preco": 240.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "S8  NAC C/A",
+    "preco": 500.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "S8 PLUS ORI  ZL  C/A  ",
+    "preco": 480.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "S8 PLUS NAC C/A",
+    "preco": 650.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "S9 NAC C/A",
+    "preco": 500.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "S9 PLUS ORI ZL  C/A ",
+    "preco": 500.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "S9 PLUS NAC C/A",
+    "preco": 650.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "S10E ZL C/A ",
+    "preco": 420.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "S10E  NAC C/A",
+    "preco": 500.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "S10 LITE ORI  ZL C/A ",
+    "preco": 420.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "S10 LITE NAC C/A",
+    "preco": 800.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "S10 ORI ZL C/A ",
+    "preco": 700.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "S10  NAC  C/A",
+    "preco": 850.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "S10 PLUS ZL C/A ",
+    "preco": 900.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "S10 PLUS NAC C/A",
+    "preco": 1000.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "S20 ORI  ZL  C/A ",
+    "preco": 550.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "S20 NAC C/A    P/SILVER",
+    "preco": 850.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "S20 FE ORI ZL C/A  P/S/VERDE/VERMELHO    ",
+    "preco": 220.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "S20 FE NAC  C/A    P/VERDE",
+    "preco": 500.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "S20 PLUS ORI ZL C/A  ",
+    "preco": 550.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "S20 PLUS NAC C/A P/A",
+    "preco": 1000.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "S20 ULTRA ORI ZL C/A  ",
+    "preco": 550.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "S20 ULTRA NAC C/A",
+    "preco": 1150.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "S21 FE NAC",
+    "preco": 800.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "S21 ORI ZL C/A ",
+    "preco": 550.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "S21 NAC C/A",
+    "preco": 800.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "S21 PLUS ORI ZL  C/A ",
+    "preco": 550.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "S21 PLUS NAC C/A",
+    "preco": 850.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "S21 ULTRA ORI ZL C/A",
+    "preco": 550.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "S21 ULTRA NAC C/A",
+    "preco": 1350.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "S22 ORI ZL C/A ",
+    "preco": 780.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "S22 NAC C/A",
+    "preco": 950.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "S22 PLUS ORI ZL C/A",
+    "preco": 650.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "S22 PLUS  NAC  C/A",
+    "preco": 850.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "S22 ULTRA ORI ZL C/A",
+    "preco": 650.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "S22 ULTRA NAC C/A",
+    "preco": 1450.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "S23 FE NAC C/A",
+    "preco": 700.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "S23 ORI ZL C/A  ",
+    "preco": 750.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "S23 NAC C/A",
+    "preco": 900.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "S23 PLUS NAC C/A",
+    "preco": 950.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "S23 ULTRA  ORI ZL C/A  ",
+    "preco": 750.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "S23 ULTRA NAC C/A",
+    "preco": 1450.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "S24 FE ORI S/A ZL ",
+    "preco": 380.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "S24 NAC C/A ",
+    "preco": 1000.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "S24 PLUS NAC C/A",
+    "preco": 1350.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "S24 ULTRA  ORI ZL C/A  ",
+    "preco": 1000.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "NOTE 8 NAC C/A",
+    "preco": 700.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "NOTE 9 NAC C/A",
+    "preco": 750.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "NOTE 10 ZL C/A",
+    "preco": 850.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "NOTE 10 NAC C/A",
+    "preco": 900.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "NOTE 10 PLUS ORI ZL C/A",
+    "preco": 650.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "NOTE 10 PLUS NAC C/A  A/SILVER",
+    "preco": 1400.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "NOTE 10 LITE NAC C/A",
+    "preco": 1000.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "NOTE 20 ZL C/A ",
+    "preco": 500.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "NOTE 20 NAC C/A  P/D",
+    "preco": 850.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "NOTE 20 ULTRA ORI  C/A  ZL",
+    "preco": 750.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "NOTE 20 ULTRA NAC C/A  D",
+    "preco": 1500.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "Z FOLD 4 5G NAC C/A   P",
+    "preco": 3150.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "Z FLIP 4  NAC  C/A D  1个",
+    "preco": 2450.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "J120 IN       P/D",
+    "preco": 45.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "J250  IN P",
+    "preco": 40.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "J250 ORI     P/D",
+    "preco": 110.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "J260 ORI",
+    "preco": 50.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "J4 IN      D",
+    "preco": 40.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "J4 ORI    A/R",
+    "preco": 120.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "J4 PLUS / J6 PLUS ZL ",
+    "preco": 45.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "J5 PRIME ZL P/B",
+    "preco": 50.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "J510 IN       D",
+    "preco": 40.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "J510 ORI     P/D",
+    "preco": 110.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "J530 ORI     P/D",
+    "preco": 110.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "J6 IN FINA",
+    "preco": 50.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "J6 ORI",
+    "preco": 150.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "J7 ORI     P/D",
+    "preco": 120.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "J7 PRIME   B",
+    "preco": 50.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "J701 IN",
+    "preco": 40.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "J701 ORI       P",
+    "preco": 100.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "J710 ORI       P/D",
+    "preco": 105.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "J730 IN        A",
+    "preco": 50.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "J730 ORI      D",
+    "preco": 120.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "J8 IN FINA",
+    "preco": 45.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "J8 ORI",
+    "preco": 150.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A510 IN",
+    "preco": 65.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A510 ORI",
+    "preco": 110.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A520 ORI  P/D",
+    "preco": 120.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A530 / A8 ORI",
+    "preco": 175.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A6 PLUS ORI",
+    "preco": 150.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A730 / A8 PLUS ORI",
+    "preco": 150.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A750 / A7 2018 ORI",
+    "preco": 150.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A750 ORI C/A",
+    "preco": 165.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A750 C/A ZL",
+    "preco": 185.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A750 / A7 2018 NAC S/A",
+    "preco": 200.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A80 ORI",
+    "preco": 280.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A80 NAC C/A D",
+    "preco": 450.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A90 ORI",
+    "preco": 150.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A90 NAC C/A",
+    "preco": 420.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A920 /A9 2018 ORI",
+    "preco": 150.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "A920 NAC C/A",
+    "preco": 210.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "SM E5 ORI",
+    "preco": 80.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "TOUCH G532  P/D/B",
+    "preco": 8.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "G POWER / G10 PLAY",
+    "preco": 50.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G04/ G04S / G24 / G24 POWER / E14   ZL    ",
+    "preco": 60.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G04 / G04S C/A",
+    "preco": 80.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G04 / G04S C/A  ZL",
+    "preco": 90.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G05 ZL ",
+    "preco": 85.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G05 C/A ZL",
+    "preco": 120.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G10 / G20 / G30 ORI ",
+    "preco": 50.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G10 / G20 / G30   ZL",
+    "preco": 55.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G10/G20/G30  C/A",
+    "preco": 60.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G10/G20/G30  C/A  ZL",
+    "preco": 80.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G13 / G23 / G34 / G45 / G53  ZL ",
+    "preco": 55.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G13 / G23 C/A",
+    "preco": 75.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G13 / G23 C/A  ZL",
+    "preco": 85.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G14 / G54 / G55 / G64  ZL",
+    "preco": 60.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G14  C/A ZL",
+    "preco": 100.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G15 ZL ",
+    "preco": 85.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G15 C/A ZL ",
+    "preco": 120.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G22 /E22S / E32 S/A  ORI ",
+    "preco": 50.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G22 /E22S / E32 S/A ZL ",
+    "preco": 55.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G22 C/A ",
+    "preco": 65.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G22 C/A ZL",
+    "preco": 90.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G24 / G24 POWER  C/A",
+    "preco": 75.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G24 / G24 POWER  C/A  ZL",
+    "preco": 90.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G200 ORI",
+    "preco": 90.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G200  C/A  ZL",
+    "preco": 200.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G31 / G41 / G71  IN ",
+    "preco": 65.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G31 / G41 / G71  ORI            ",
+    "preco": 140.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G31 IN C/A  ZL",
+    "preco": 100.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G31 ORI C/A",
+    "preco": 145.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G31 ORI C/A  ZL",
+    "preco": 165.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G32 / G73 5G   ZL",
+    "preco": 70.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G32 C/A",
+    "preco": 90.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G32 C/A  ZL",
+    "preco": 100.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G34  C/A ZL",
+    "preco": 90.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G35 ZL ",
+    "preco": 70.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G35 C/A ZL ",
+    "preco": 100.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G41 IN C/A  ZL",
+    "preco": 100.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G41 ORI C/A ",
+    "preco": 150.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G41 ORI C/A  ZL",
+    "preco": 165.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G42 ORI ",
+    "preco": 140.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G42 IN C/A ZL",
+    "preco": 100.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G42 ORI C/A",
+    "preco": 160.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G42 ORI C/A ZL",
+    "preco": 170.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G5G  C/A  ZL ",
+    "preco": 120.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G50 4G",
+    "preco": 60.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G50 5G ORI ",
+    "preco": 60.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G50 5G  ZL",
+    "preco": 60.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G50 5G C/A  ZL",
+    "preco": 85.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G52/ G71S / G82 /EDGE 30/ EDGE 2022 IN S/A",
+    "preco": 60.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G52/ G71S / G82/EDGE 30/ EDGE 2022 ORI S/CAIXA",
+    "preco": 160.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G52/G71S/G72/G82/EDGE 30/ EDGE 2022 ORI S/A ZL",
+    "preco": 220.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G52 / G71S / G82  IN C/A",
+    "preco": 90.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G52 / G71S / G82 IN C/A ZL",
+    "preco": 120.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G52 /G71S / G82 ORI C/A",
+    "preco": 185.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G52 /G71S / G82 ORI C/A ZL",
+    "preco": 230.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G53  C/A",
+    "preco": 75.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G53  C/A  ZL ",
+    "preco": 90.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G54/ G55/ G64 C/A ZL",
+    "preco": 100.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G5G / G5G ACTIVE ORI",
+    "preco": 70.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G5G C/A  ZL",
+    "preco": 130.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G5G 2023 C/A ZL",
+    "preco": 120.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G5G PLUS / G100 ORI",
+    "preco": 80.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G5G PLUS  ZL",
+    "preco": 115.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G5G PLUS C/A ZL",
+    "preco": 200.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G5 PLUS  ORI tela grand   D",
+    "preco": 45.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G6 PLAY / E5  ZL   P/D",
+    "preco": 55.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G6 PLAY  C/A P",
+    "preco": 65.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G6 PLAY C/A ZL     P/D",
+    "preco": 75.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G6 PLUS       P",
+    "preco": 60.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G60 / G60S  ZL",
+    "preco": 70.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G60 C/A",
+    "preco": 85.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G60 C/A  ZL",
+    "preco": 100.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G60S C/A",
+    "preco": 85.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G60S C/A  ZL",
+    "preco": 100.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G62 ORI ",
+    "preco": 75.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G62 ZL ",
+    "preco": 80.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G62 C/A  ZL",
+    "preco": 100.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G7 / G7 PLUS ZL",
+    "preco": 70.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G7 PLAY ORI ",
+    "preco": 48.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G7 PLAY ZL ",
+    "preco": 50.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G7 PLAY C/A ZL   P/D",
+    "preco": 85.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G7 POWER  ZL",
+    "preco": 50.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G7 POWER C/A ZL",
+    "preco": 85.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G71 INC C/A ZL",
+    "preco": 120.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G71 ORI C/A ZL",
+    "preco": 165.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G72 ORI C/A ZL ",
+    "preco": 340.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G73 C/A",
+    "preco": 85.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G73 C/A  ZL",
+    "preco": 110.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G75 ZL",
+    "preco": 120.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G8 ORI",
+    "preco": 55.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G8 ORI C/A ZL",
+    "preco": 0.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G8 PLAY ORI",
+    "preco": 45.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G8 PLAY  ZL",
+    "preco": 50.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G8 PLAY C/A",
+    "preco": 80.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G8 PLAY C/A ZL   R/V",
+    "preco": 90.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G8 PLUS  ORI",
+    "preco": 55.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G8 PLUS  ZL",
+    "preco": 70.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G8 PLUS C/A ZL   P/V",
+    "preco": 105.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G8 POWER LITE ORI",
+    "preco": 45.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G8 POWER LITE  ZL",
+    "preco": 50.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G8 POWER LITE  C/A",
+    "preco": 60.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G8 POWER LITE  C/A ZL",
+    "preco": 75.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G8 POWER ORI",
+    "preco": 65.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G8 POWER ZL ",
+    "preco": 75.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G8 POWER C/A",
+    "preco": 95.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G8 POWER C/A ZL",
+    "preco": 105.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G84 ORI",
+    "preco": 210.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G84 ORI ZL ",
+    "preco": 260.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G84 ORI  C/A ZL",
+    "preco": 280.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G85 ORI C/A ZL ",
+    "preco": 370.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G9 PLAY /E7 PLUS ORI",
+    "preco": 45.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G9 PLAY /E7 PLUS   ZL",
+    "preco": 50.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G9 PLAY/E7 PLUS   C/A   ",
+    "preco": 60.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G9 PLAY/ E7 PLUS  C/A ZL",
+    "preco": 75.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G9 PLUS  ORI",
+    "preco": 65.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G9 PLUS ZL ",
+    "preco": 75.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G9 PLUS C/A ZL",
+    "preco": 120.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G9 POWER  ORI",
+    "preco": 60.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G9 POWER  ZL ",
+    "preco": 65.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G9 POWER C/A",
+    "preco": 70.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "G9 POWER C/A ZL",
+    "preco": 100.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "E13 ORI ",
+    "preco": 50.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "E13  ZL",
+    "preco": 55.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "E13 C/A",
+    "preco": 65.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "E13 C/A ZL",
+    "preco": 80.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "E20 ORI ",
+    "preco": 50.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "E20   ZL",
+    "preco": 55.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "E20  C/A",
+    "preco": 65.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "E20 C/A ZL",
+    "preco": 80.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "E22 ORI ",
+    "preco": 50.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "E22  ZL ",
+    "preco": 55.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "E22 C/A",
+    "preco": 65.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "E22 C/A ZL ",
+    "preco": 85.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "E32  C/A",
+    "preco": 60.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "E32  C/A ZL",
+    "preco": 80.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "E30 / E40 ORI ",
+    "preco": 50.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "E30 / E40 ZL",
+    "preco": 60.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "E30 / E40  C/A",
+    "preco": 65.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "E30 / E40  C/A ZL",
+    "preco": 80.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "E30 / E40  NAC   C/A  ZL",
+    "preco": 85.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "E4 PLUS     P",
+    "preco": 50.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "E5 PLAY ORI   D",
+    "preco": 45.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "E5 PLAY C/A   ZL  D",
+    "preco": 70.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "E5 PLUS ORI   P/D",
+    "preco": 45.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "E6 PLAY ORI",
+    "preco": 50.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "E6 PLAY C/A  ZL",
+    "preco": 70.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "E6 PLUS ORI",
+    "preco": 45.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "E6 PLUS  C/A ",
+    "preco": 60.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "E6 PLUS  C/A ZL",
+    "preco": 70.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "E6S / E6i ORI ",
+    "preco": 50.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "E6S / E6i ZL",
+    "preco": 50.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "E6I  C/A",
+    "preco": 60.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "E6I  C/A  ZL",
+    "preco": 75.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "E6S C/A",
+    "preco": 60.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "E6S C/A  ZL",
+    "preco": 70.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "E7 / E7 POWER ORI",
+    "preco": 50.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "E7 / E7 POWER  ZL",
+    "preco": 50.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "E7  C/A",
+    "preco": 60.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "E7  C/A  ZL",
+    "preco": 75.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "E7 POWER C/A",
+    "preco": 60.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "E7 POWER C/A  ZL",
+    "preco": 75.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "E7 PLUS V8 C/A",
+    "preco": 65.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "ONE ORI",
+    "preco": 45.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "ONE ZL",
+    "preco": 50.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "ONE C/A",
+    "preco": 70.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "ONE C/A  ZL   P/S",
+    "preco": 95.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "ONE FUSION ",
+    "preco": 55.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "ONE FUSION C/A",
+    "preco": 60.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "ONE FUSION C/A  ZL",
+    "preco": 80.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "ONE FUSION PLUS  ORI",
+    "preco": 60.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "ONE FUSION PLUS   ZL  B",
+    "preco": 75.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "ONE FUSION PLUS  C/A",
+    "preco": 80.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "ONE FUSION PLUS C/A ZL  P/B",
+    "preco": 115.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "ONE HYPER  ZL",
+    "preco": 65.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "ONE VISION / ACTION  ZL",
+    "preco": 180.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "ONE VISION  C/A",
+    "preco": 180.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "ONE VISION  C/A   ZL",
+    "preco": 210.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "ONE ACTION C/A  ZL",
+    "preco": 240.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "ONE ZOOM  / Z4 PLAY  ORI ",
+    "preco": 140.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "Z  PLAY ORI",
+    "preco": 105.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "Z2 PLAY  IN ",
+    "preco": 50.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "Z2 PLAY ORI    P",
+    "preco": 115.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "Z3 PLAY ORI ",
+    "preco": 150.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "EDGE / EDGE PLUS NAC S/A  ZL",
+    "preco": 380.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "EDGE 20 / EDGE 20 PRO / EDGE 30 PRO / X30 ORI   ZL",
+    "preco": 250.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "EDGE 20 ORI  ZL C/A",
+    "preco": 330.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "EDGE 20 PRO NAC C/A",
+    "preco": 330.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "EDGE 20 LITE / EDGE 20 FUSION ORI S/A ",
+    "preco": 200.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "EDGE 20 LITE ORI C/A ZL",
+    "preco": 260.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "EDGE 30 PRO NAC C/A",
+    "preco": 330.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "EDGE 30 ULTRA / X30 PRO ORI  ZL",
+    "preco": 160.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "EDGE 30 FUSION / S30 PRO ORI ZL",
+    "preco": 250.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "EDGE 30 NEO  ORI S/A ZL",
+    "preco": 350.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "EDGE 30 NEO  ORI C/A ZL  P/R",
+    "preco": 450.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "EDGE 30  ORI C/A ZL",
+    "preco": 320.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "EDGE 40 / EDGE 40 NEO/ EDGE 2023 ORI ZL",
+    "preco": 280.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "EDGE 40 ORI C/A ZL ",
+    "preco": 450.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "EDGE 40 NEO ORI C/A ZL P/V/A",
+    "preco": 340.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "EDGE 50 ORI C/A ZL ",
+    "preco": 400.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "EDGE 50 PRO ORI S/A ZL",
+    "preco": 300.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "EDGE 50 FUSION / S50 NEO / G85  ORI S/A ZL ",
+    "preco": 300.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "EDGE 50 FUSION / S50 NEO  ORI C/A ZL  AZUL/ S",
+    "preco": 370.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "EDGE 50 ULTRA / X50 ULTRA  ORI S/A ZL ",
+    "preco": 450.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "EDGE 50 NEO / S50  ORI S/A ZL ",
+    "preco": 400.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "EDGE 50 NEO / S50   ORI C/A ZL ",
+    "preco": 420.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "MOTO C      D",
+    "preco": 50.0,
+    "marca": "motorola"
+  },
+  {
+    "nome": "K10 S/TV",
+    "preco": 50.0,
+    "marca": "lg"
+  },
+  {
+    "nome": "K10 C/TV",
+    "preco": 60.0,
+    "marca": "lg"
+  },
+  {
+    "nome": "K11 PLUS C/A",
+    "preco": 70.0,
+    "marca": "lg"
+  },
+  {
+    "nome": "K12 / K12 PLUS / K40",
+    "preco": 60.0,
+    "marca": "lg"
+  },
+  {
+    "nome": "K12 / K12 PLUS / K40 C/A",
+    "preco": 75.0,
+    "marca": "lg"
+  },
+  {
+    "nome": "K12 / K12 PLUS / K40 C/A ZL ",
+    "preco": 90.0,
+    "marca": "lg"
+  },
+  {
+    "nome": "K22 / K22 PLUS",
+    "preco": 55.0,
+    "marca": "lg"
+  },
+  {
+    "nome": "K22 / K22 PLUS C/A",
+    "preco": 65.0,
+    "marca": "lg"
+  },
+  {
+    "nome": "K22 / K22 PLUS C/A   ZL",
+    "preco": 90.0,
+    "marca": "lg"
+  },
+  {
+    "nome": "K220",
+    "preco": 75.0,
+    "marca": "lg"
+  },
+  {
+    "nome": "K4 2017",
+    "preco": 65.0,
+    "marca": "lg"
+  },
+  {
+    "nome": "K40S ORI",
+    "preco": 55.0,
+    "marca": "lg"
+  },
+  {
+    "nome": "K40S C/A   ZL",
+    "preco": 90.0,
+    "marca": "lg"
+  },
+  {
+    "nome": "K41S  ZL",
+    "preco": 60.0,
+    "marca": "lg"
+  },
+  {
+    "nome": "K41S C/A",
+    "preco": 65.0,
+    "marca": "lg"
+  },
+  {
+    "nome": "K41S C/A  ZL",
+    "preco": 90.0,
+    "marca": "lg"
+  },
+  {
+    "nome": "K42 / K52 / K62  ZL",
+    "preco": 55.0,
+    "marca": "lg"
+  },
+  {
+    "nome": "K42 C/A ",
+    "preco": 75.0,
+    "marca": "lg"
+  },
+  {
+    "nome": "K42 C/A  ZL",
+    "preco": 90.0,
+    "marca": "lg"
+  },
+  {
+    "nome": "K52/ K62  C/A  ZL",
+    "preco": 85.0,
+    "marca": "lg"
+  },
+  {
+    "nome": "K50 / K12 MAX / K12 PRIME  ZL",
+    "preco": 60.0,
+    "marca": "lg"
+  },
+  {
+    "nome": "K50 / K12 MAX / K12 PRIME  C/A",
+    "preco": 75.0,
+    "marca": "lg"
+  },
+  {
+    "nome": "K50 / K12 MAX / K12 PRIME  C/A  ZL",
+    "preco": 90.0,
+    "marca": "lg"
+  },
+  {
+    "nome": "K50S ZL",
+    "preco": 60.0,
+    "marca": "lg"
+  },
+  {
+    "nome": "K50S C/A  ZL",
+    "preco": 90.0,
+    "marca": "lg"
+  },
+  {
+    "nome": "K51 ZL",
+    "preco": 60.0,
+    "marca": "lg"
+  },
+  {
+    "nome": "K51S ZL",
+    "preco": 60.0,
+    "marca": "lg"
+  },
+  {
+    "nome": "K51S C/A  ZL",
+    "preco": 90.0,
+    "marca": "lg"
+  },
+  {
+    "nome": "K61  ZL",
+    "preco": 65.0,
+    "marca": "lg"
+  },
+  {
+    "nome": "K61 C/A  ZL",
+    "preco": 90.0,
+    "marca": "lg"
+  },
+  {
+    "nome": "K8 C/A",
+    "preco": 45.0,
+    "marca": "lg"
+  },
+  {
+    "nome": "K8 2017",
+    "preco": 65.0,
+    "marca": "lg"
+  },
+  {
+    "nome": "K8 PLUS",
+    "preco": 65.0,
+    "marca": "lg"
+  },
+  {
+    "nome": "K8 PLUS  C/A",
+    "preco": 70.0,
+    "marca": "lg"
+  },
+  {
+    "nome": "K9 C/A",
+    "preco": 50.0,
+    "marca": "lg"
+  },
+  {
+    "nome": "LG G9  C/A  ZL",
+    "preco": 460.0,
+    "marca": "lg"
+  },
+  {
+    "nome": "Q6 /Q7 / Q60",
+    "preco": 80.0,
+    "marca": "lg"
+  },
+  {
+    "nome": "NOTE 5 / NOTE 5 PRO ",
+    "preco": 60.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 6 PRO / NOTE  6  ",
+    "preco": 60.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 7 / NOTE 7 PRO   ORI",
+    "preco": 50.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 7 / NOTE 7 PRO   ZL",
+    "preco": 60.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 7  C/A ZL   AZUL/PRETO",
+    "preco": 90.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 8 ORI",
+    "preco": 50.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 8  ZL",
+    "preco": 55.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 8  C/A  ZL    PRETO/ AZUL/ S",
+    "preco": 90.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 8 PRO ZL",
+    "preco": 60.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 8 PRO C/A ZL  ",
+    "preco": 90.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 8T",
+    "preco": 50.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 8T  C/A ZL",
+    "preco": 90.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 9T",
+    "preco": 80.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 9 / REDMI 10X   ORI        ",
+    "preco": 60.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 9 / REDMI 10X    ZL",
+    "preco": 65.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 9  C/A",
+    "preco": 75.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 9  C/A ZL ",
+    "preco": 90.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 9S / NOTE 9 PRO ORI ",
+    "preco": 55.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 9S / NOTE 9 PRO  ZL",
+    "preco": 70.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 9S C/A ",
+    "preco": 85.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 9S C/A ZL   PRATA",
+    "preco": 100.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 10 4G / NOTE 10S /POCO M5S  IN",
+    "preco": 60.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 10 4G / NOTE 10S /POCO M5S  ORI",
+    "preco": 140.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 10 4G IN C/A ZL",
+    "preco": 95.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 10 4G ORI C/A ZL",
+    "preco": 170.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 10 5G / M3 PRO 5G / NOTE 10T    ZL",
+    "preco": 70.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 10 5G / M3 PRO  ZL C/A  ",
+    "preco": 90.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 10 PRO/NOTE 11 PRO/NOTE 11 PRO +/NOTE 12 PRO 4G / X4 PRO  IN",
+    "preco": 75.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 10 PRO/NOTE 11 PRO/NOTE 11 PRO +/NOTE 12 PRO 4G / X4 PRO  ORI",
+    "preco": 180.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 10 PRO 4G / NOTE 10 PRO MAX IN  C/A ZL",
+    "preco": 105.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 10 PRO 4G / NOTE 10 PRO MAX ORI  C/A ZL",
+    "preco": 210.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 10 PRO 4G / NOTE 10 PRO MAX NAC C/A",
+    "preco": 300.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 11 PRO 4G/ 5G / X4 PRO IN  C/A ZL",
+    "preco": 100.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 11 PRO 4G/ 5G / X4 PRO ORI  C/A  ZL",
+    "preco": 210.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 11 PRO PLUS  5G ORI C/A ZL ",
+    "preco": 230.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 11 / NOTE 11S / 12S / M4 PRO 4G   IN ",
+    "preco": 70.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 11 / NOTE 11S / 12S / M4 PRO 4G  ORI ",
+    "preco": 170.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 11 / NOTE 11S / NOTE 12S / M4 PRO 4G IN C/A ZL",
+    "preco": 100.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 11 / NOTE 11S / NOTE 12S / M4 PRO 4G ORI C/A  ZL",
+    "preco": 200.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 11 5G / NOTE 11S 5G / M4 PRO 5G  ORI ",
+    "preco": 65.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 11 5G/ M4 PRO 5G  ORI C/A ZL",
+    "preco": 120.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 12  4G/5G / POCO X5 4G/5G IN",
+    "preco": 65.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 12  4G/5G / POCO X5 4G/5G ORI    ",
+    "preco": 180.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 12  4G/ POCO X5 4G   IN  C/A  ZL ",
+    "preco": 100.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 12  4G/ POCO X5 4G   ORI  C/A ZL",
+    "preco": 220.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 12  5G/ POCO X5 5G   IN   C/A ZL",
+    "preco": 100.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 12  5G/ POCO X5 5G  ORI   C/A ZL",
+    "preco": 220.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 12 PRO 4G/ POCO X5 PRO 4G ORI C/A  ZL  ",
+    "preco": 210.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 12 PRO 5G/ POCO X5 PRO 5G / NOTE 12 PRO PLUS   IN S/A",
+    "preco": 70.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 12 PRO 5G/ POCO X5 PRO 5G / NOTE 12 PRO PLUS  ORI S/A",
+    "preco": 190.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 12 PRO 5G/ POCO X5 PRO 5G  IN  C/A ZL",
+    "preco": 120.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 12 PRO 5G/ POCO X5 PRO 5G  ORI   C/A  ZL",
+    "preco": 220.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 12 PRO PLUS ORI C/A ZL ",
+    "preco": 250.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 12 TURBO / POCO F5 ORI S/A ZL ",
+    "preco": 190.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 13 4G / NOTE 14 4G/5G / POCO M7 PRO 5G   IN",
+    "preco": 70.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 13 4G ORI",
+    "preco": 200.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 13 4G ORI ZL",
+    "preco": 280.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 13 4G ORI  C/A ZL P",
+    "preco": 400.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 13 5G IN ",
+    "preco": 80.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 13 5G ORI ZL",
+    "preco": 170.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 13 5G  IN  C/A ZL",
+    "preco": 130.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 13 5G ORI  C/A ZL D/A/P",
+    "preco": 300.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 13 PRO 4G/ NOTE 14 PRO 4G / NOTE 14S/ M6 PRO 4G ORI S/A ZL",
+    "preco": 270.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 13 PRO 4G / NOTE 14S / M6 PRO 4G  ORI ZL C/A",
+    "preco": 300.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 13 PRO 5G IN  ",
+    "preco": 95.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 13 PRO 5G / POCO X6  ORI S/A ZL",
+    "preco": 350.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 13 PRO 5G / POCO X6  ORI C/A ZL  A/R",
+    "preco": 360.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 14 4G/ NOTE 14 5G / POCO M7 PRO 5G  ORI ",
+    "preco": 210.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 14 4G ORI C/A ZL",
+    "preco": 270.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "NOTE 14 5G / POCO M7 PRO  ORI  C/A ZL",
+    "preco": 270.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "MI A2 LITE ORI",
+    "preco": 60.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "MI A3 / CC9E INCELL ",
+    "preco": 65.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "MI A3 / CC9E ORI",
+    "preco": 160.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "MI A3 / CC9E  IN  C/A  ZL",
+    "preco": 100.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "MI A3 / CC9E ORI C/A  ZL",
+    "preco": 200.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "MI PLAY ORI ",
+    "preco": 95.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "MI NOTE 10 PRO / NOTE 10 LITE  tela cruvado / CC9 PRO  ORI  ZL",
+    "preco": 250.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "MI NOTE 10 PRO / NOTE 10 LITE  tela cruvado / CC9 PRO  ORI C/A ZL",
+    "preco": 330.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "MI 10  NAC   C/A   CRUVADO ",
+    "preco": 400.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "MI 10 LITE / REDMI 10X 5G IN",
+    "preco": 80.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "MI 10 LITE / REDMI 10X 5G ORI",
+    "preco": 160.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "MI 10 LITE NAC",
+    "preco": 200.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "MI 10T LITE C/A ZL",
+    "preco": 180.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "MI 10T C/A  ZL",
+    "preco": 150.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "MI 11T / MI 11T PRO  ORI S/A  ZL",
+    "preco": 260.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "MI 11T / MI 11T PRO  ORI C/A   ZL",
+    "preco": 290.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "MI 11 LITE 5G ORI ZL",
+    "preco": 270.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "MI 11 LITE 5G ORI C/A  ZL",
+    "preco": 300.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "MI 12 / MI 12X  ORI S/A ZL",
+    "preco": 330.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "MI 12 LITE ORI  S/A ZL",
+    "preco": 220.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "MI 12 LITE ORI C/A  ZL",
+    "preco": 250.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "MI 12T / MI 12T PRO ORI S/A ZL",
+    "preco": 220.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "MI 12T / MI 12T PRO ORI C/A ZL",
+    "preco": 270.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "MI 13 LITE  ORI S/A ZL ",
+    "preco": 350.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "MI 13T / MI 13T PRO IN",
+    "preco": 120.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "MI 13T / MI 13T PRO ORI  S/A ZL",
+    "preco": 250.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "MI 13T /MI 13T PRO IN C/A ZL",
+    "preco": 165.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "MI 8 LITE ",
+    "preco": 55.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "MI 8 LITE C/A ZL ",
+    "preco": 100.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "MI 8 ORI",
+    "preco": 120.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "MI 8 ORI C/A  ZL",
+    "preco": 170.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "MI 9 LITE IN",
+    "preco": 85.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "MI 9 LITE ORI ",
+    "preco": 150.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "MI 9 LITE ORI C/A  ZL",
+    "preco": 200.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "MI 9 IN",
+    "preco": 70.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "MI 9 ORI",
+    "preco": 150.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "MI 9 SE IN",
+    "preco": 90.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "MI 9 SE ORI    TELA PEQUENO",
+    "preco": 170.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "MI 9T / 9T PRO IN",
+    "preco": 75.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "MI 9T / 9T PRO ORI",
+    "preco": 190.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "MI 9T / 9T PRO ORI C/A ZL  PRETO",
+    "preco": 260.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "POCO F1 ",
+    "preco": 50.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "POCO F1  C/A   ZL",
+    "preco": 90.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "POCO F2 / POCO X2",
+    "preco": 70.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "POCO F3 /F4 /F3 PRO /MI 11i /MI 11X   IN",
+    "preco": 75.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "POCO F3 /F4 /F3 PRO /MI 11i /MI 11X ORI TELA GRANDE ",
+    "preco": 180.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "POCO F3 IN C/A ZL",
+    "preco": 110.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "POCO F3  OLED   C/A  ZL",
+    "preco": 230.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "POCO F3 / Mi 11i / 11X / 11X Pro    NAC C/A      A",
+    "preco": 450.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "POCO F4  OLED   C/A  ZL",
+    "preco": 250.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "POCO F5 PRO IN",
+    "preco": 100.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "POCO F5 PRO ORI S/A ZL",
+    "preco": 400.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "POCO F5 PRO IN  C/A  ZL",
+    "preco": 160.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "POCO M3 / M2 / NOTE 9 4G / REDMI 9T ORI ",
+    "preco": 50.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "POCO M3 / M2 / NOTE 9 4G / REDMI 9T  ZL",
+    "preco": 60.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "POCO M3 / REDMI 9T C/A ZL",
+    "preco": 90.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "POCO M4 / POCO M5 / REDMI 11 PRIME / 11R / 11E  ZL",
+    "preco": 70.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "POCO M4 / M5  C/A  ZL",
+    "preco": 90.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "POCO X3 / X3 PRO /MI 10T LITE/NOTE 9 PRO 5G  ORI",
+    "preco": 70.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "POCO X3 / X3 PRO /MI 10T LITE/NOTE 9 PRO 5G   ZL",
+    "preco": 70.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "POCO X3 / X3 PRO  C/A  ZL",
+    "preco": 120.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "POCO X3 GT / NOTE 10 PRO 5G ZL",
+    "preco": 85.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "POCO X3 GT / NOTE 10 PRO 5G  C/A ZL",
+    "preco": 110.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "POCO X4 GT / NOTE 11T PRO  ZL ",
+    "preco": 90.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "POCO X4 GT /REDMI NOTE 11T PRO C/A ZL",
+    "preco": 135.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "POCO X6 PRO ORI S/A ZL",
+    "preco": 230.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "POCO X6 PRO ORI C/A ZL",
+    "preco": 320.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "REDMI A1/ A1 PLUS/ A2 / A2 PLUS /POCO C50/POCO C51 ORI",
+    "preco": 50.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "REDMI A1/ A1 PLUS/ A2 / A2 PLUS /POCO C50/POCO C51 ZL               ",
+    "preco": 55.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "REDMI A1/ A1 PLUS / A2 / A2 PLUS  C/A  ZL",
+    "preco": 90.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "REDMI A3 / A3X / POCO C61 / POCO C75 ZL ",
+    "preco": 60.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "REDMI A3  C/A ZL",
+    "preco": 90.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "REDMI 5A / REDMI GO ORI ",
+    "preco": 50.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "REDMI 6 / 6A ORI ",
+    "preco": 50.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "REDMI 6 / 6A  C/A ZL ",
+    "preco": 75.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "REDMI 7 ORI ",
+    "preco": 55.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "REDMI 7  C/A  ZL   AZUL/PRETO ",
+    "preco": 90.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "REDMI 7A ORI ",
+    "preco": 50.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "REDMI 7A  C/A ZL",
+    "preco": 75.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "REDMI 8/ 8A   ZL",
+    "preco": 55.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "REDMI 8/ 8A C/A ZL",
+    "preco": 85.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "REDMI 9 ORI",
+    "preco": 50.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "REDMI 9 ZL",
+    "preco": 55.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "REDMI 9  C/A",
+    "preco": 65.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "REDMI 9  C/A ZL",
+    "preco": 85.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "REDMI 9A / 9C / 10A / POCO C3 / 9i   ORI",
+    "preco": 50.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "REDMI 9A / 9C / 10A / POCO C3 / 9i    ZL",
+    "preco": 50.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "REDMI 9A  C/A",
+    "preco": 65.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "REDMI 9A  C/A  ZL",
+    "preco": 90.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "REDMI 10C / REDMI 10 POWER  / POCO C40",
+    "preco": 60.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "REDMI 10C  C/A  ZL",
+    "preco": 85.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "REDMI 10/ REDMI 10 PRIME  ZL ",
+    "preco": 65.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "REDMI 10  C/A  ZL",
+    "preco": 95.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "REDMI 12 /REDMI 13 / M6 PRO 5G ORI ",
+    "preco": 70.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "REDMI 12 /REDMI 13 / M6 PRO 5G  ZL",
+    "preco": 70.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "REDMI 12 / M6 PRO 5G   C/A  ZL",
+    "preco": 100.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "REDMI 13  C/A ZL   ",
+    "preco": 110.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "REDMI 12C / REDMI 11A / POCO C55   ORI",
+    "preco": 55.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "REDMI 12C / REDMI 11A / POCO C55    ZL",
+    "preco": 60.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "REDMI 12C  C/A ZL ",
+    "preco": 80.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "REDMI 13C / POCO C65 S/A  ZL",
+    "preco": 60.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "REDMI 13C C/A ZL",
+    "preco": 90.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "REDMI 14C / POCO C75  S/A ZL ",
+    "preco": 70.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "REDMI 14C C/A ZL",
+    "preco": 110.0,
+    "marca": "xiaomi"
+  },
+  {
+    "nome": "ZA550KL",
+    "preco": 65.0,
+    "marca": "zenfone"
+  },
+  {
+    "nome": "ZA550KL C/A ",
+    "preco": 90.0,
+    "marca": "zenfone"
+  },
+  {
+    "nome": "ZB501KL       P/B",
+    "preco": 60.0,
+    "marca": "zenfone"
+  },
+  {
+    "nome": "ZB551KL",
+    "preco": 60.0,
+    "marca": "zenfone"
+  },
+  {
+    "nome": "ZB553KL       P/B",
+    "preco": 60.0,
+    "marca": "zenfone"
+  },
+  {
+    "nome": "ZB555KL",
+    "preco": 65.0,
+    "marca": "zenfone"
+  },
+  {
+    "nome": "ZB601KL / ZB602KL ",
+    "preco": 65.0,
+    "marca": "zenfone"
+  },
+  {
+    "nome": "ZB631KL",
+    "preco": 70.0,
+    "marca": "zenfone"
+  },
+  {
+    "nome": "ZB633KL",
+    "preco": 80.0,
+    "marca": "zenfone"
+  },
+  {
+    "nome": "ZB634KL",
+    "preco": 70.0,
+    "marca": "zenfone"
+  },
+  {
+    "nome": "ZC520KL",
+    "preco": 80.0,
+    "marca": "zenfone"
+  },
+  {
+    "nome": "ZC520KL C/A     P/B",
+    "preco": 85.0,
+    "marca": "zenfone"
+  },
+  {
+    "nome": "ZC553KL",
+    "preco": 60.0,
+    "marca": "zenfone"
+  },
+  {
+    "nome": "ZC553KL C/A",
+    "preco": 85.0,
+    "marca": "zenfone"
+  },
+  {
+    "nome": "ZC600KL ORI ",
+    "preco": 110.0,
+    "marca": "zenfone"
+  },
+  {
+    "nome": "ZD552KL C/A",
+    "preco": 140.0,
+    "marca": "zenfone"
+  },
+  {
+    "nome": "ZD553KL B",
+    "preco": 65.0,
+    "marca": "zenfone"
+  },
+  {
+    "nome": "ZE552KL",
+    "preco": 80.0,
+    "marca": "zenfone"
+  },
+  {
+    "nome": "ZE553KL C/A",
+    "preco": 135.0,
+    "marca": "zenfone"
+  },
+  {
+    "nome": "ZS620KL / ZE620KL ",
+    "preco": 80.0,
+    "marca": "zenfone"
+  },
+  {
+    "nome": "ZS630KL / ZE630KL",
+    "preco": 120.0,
+    "marca": "zenfone"
+  },
+  {
+    "nome": "ZS660KL",
+    "preco": 310.0,
+    "marca": "zenfone"
+  },
+  {
+    "nome": "REALME C11 2020 / C15 ORI",
+    "preco": 55.0,
+    "marca": "realme"
+  },
+  {
+    "nome": "REALME C11 2021  ZL",
+    "preco": 55.0,
+    "marca": "realme"
+  },
+  {
+    "nome": "REALME C11 2021  C/A ZL",
+    "preco": 90.0,
+    "marca": "realme"
+  },
+  {
+    "nome": "REALME C17 / 7i  ZL ",
+    "preco": 70.0,
+    "marca": "realme"
+  },
+  {
+    "nome": "REALME C21Y / C25Y ZL",
+    "preco": 55.0,
+    "marca": "realme"
+  },
+  {
+    "nome": "REALME C21Y / C25Y C/A ZL",
+    "preco": 90.0,
+    "marca": "realme"
+  },
+  {
+    "nome": "REALME C25",
+    "preco": 55.0,
+    "marca": "realme"
+  },
+  {
+    "nome": "REALME C3/ REALME 5/ REALME 5I/ REALME 5S/A8 /A11/ A11X/A5 2020/A9 2020",
+    "preco": 55.0,
+    "marca": "realme"
+  },
+  {
+    "nome": "REALME C3 ZL C/A",
+    "preco": 90.0,
+    "marca": "realme"
+  },
+  {
+    "nome": "REALME C30 / C33  ZL",
+    "preco": 55.0,
+    "marca": "realme"
+  },
+  {
+    "nome": "REALME C30 / C33 C/A ZL",
+    "preco": 90.0,
+    "marca": "realme"
+  },
+  {
+    "nome": "REALME C30S  ZL",
+    "preco": 55.0,
+    "marca": "realme"
+  },
+  {
+    "nome": "REALME C30S C/A ZL",
+    "preco": 90.0,
+    "marca": "realme"
+  },
+  {
+    "nome": "REALME C35 / NARZO 50A  ZL",
+    "preco": 55.0,
+    "marca": "realme"
+  },
+  {
+    "nome": "REALME C35  ZL C/A",
+    "preco": 85.0,
+    "marca": "realme"
+  },
+  {
+    "nome": "REALME C51 / C53 / NOTE 50 ZL",
+    "preco": 60.0,
+    "marca": "realme"
+  },
+  {
+    "nome": "REALME C51  C/A  ZL",
+    "preco": 95.0,
+    "marca": "realme"
+  },
+  {
+    "nome": "REALME C53  C/A  ZL",
+    "preco": 95.0,
+    "marca": "realme"
+  },
+  {
+    "nome": "REALME C55 / C67 5G  ZL",
+    "preco": 65.0,
+    "marca": "realme"
+  },
+  {
+    "nome": "REALME C55  C/A  ZL",
+    "preco": 110.0,
+    "marca": "realme"
+  },
+  {
+    "nome": "REALME C61 / C63 / NOTE 60 / NOTE 60X N63 / N65 / C65S ZL ",
+    "preco": 65.0,
+    "marca": "realme"
+  },
+  {
+    "nome": "REALME C65 ZL",
+    "preco": 85.0,
+    "marca": "realme"
+  },
+  {
+    "nome": "REALME C67 4G/ REALME C75         REALME 12 5G/  REALME 12X 5G     RELAME 13 5G/ P3X/ NARZO 70X 5G ZL\n",
+    "preco": 70.0,
+    "marca": "realme"
+  },
+  {
+    "nome": "REALME C67 4G ZL C/A       ",
+    "preco": 120.0,
+    "marca": "realme"
+  },
+  {
+    "nome": "REALME NOTE 50 C/A ZL ",
+    "preco": 100.0,
+    "marca": "realme"
+  },
+  {
+    "nome": "REALME NOTE 60 C/A ZL",
+    "preco": 110.0,
+    "marca": "realme"
+  },
+  {
+    "nome": "REALME 7 / REALME 6  ZL",
+    "preco": 70.0,
+    "marca": "realme"
+  },
+  {
+    "nome": "REALME 8 5G  ZL",
+    "preco": 65.0,
+    "marca": "realme"
+  },
+  {
+    "nome": "REALME 8 4G / 7PRO / 8 PRO IN",
+    "preco": 70.0,
+    "marca": "realme"
+  },
+  {
+    "nome": "REALME 8 4G/ 7 PRO / 8 PRO  OLED",
+    "preco": 160.0,
+    "marca": "realme"
+  },
+  {
+    "nome": "REALME 8 4G OLED  C/A ZL",
+    "preco": 190.0,
+    "marca": "realme"
+  },
+  {
+    "nome": "REALME 7 PRO OLED C/A ZL",
+    "preco": 190.0,
+    "marca": "realme"
+  },
+  {
+    "nome": "REALME 8 PRO OLED C/A ZL",
+    "preco": 240.0,
+    "marca": "realme"
+  },
+  {
+    "nome": "REALME 8i / 9i /NARZO 50/ A96 4G  ORI",
+    "preco": 70.0,
+    "marca": "realme"
+  },
+  {
+    "nome": "REALME 10 IN",
+    "preco": 100.0,
+    "marca": "realme"
+  },
+  {
+    "nome": "REALME 10 ORI",
+    "preco": 170.0,
+    "marca": "realme"
+  },
+  {
+    "nome": "REALME 10 PRO PLUS CURVADA",
+    "preco": 260.0,
+    "marca": "realme"
+  },
+  {
+    "nome": "REALME GT2 EXPLORE MASTER                    RENO 8 PRO PLUS                                        GT NEO 3                                                           ONE PLUS ACE                                                    ONE PLUS 10R                                                          ONE PLUS 12",
+    "preco": 170.0,
+    "marca": "realme"
+  },
+  {
+    "nome": "REALME GT2 ORI                                                 RENO 8 PRO                                                         K10 PRO                                                         Q5PRO+ 通用",
+    "preco": 26.0,
+    "marca": "realme"
+  },
+  {
+    "nome": "NOKIA 1.3",
+    "preco": 60.0,
+    "marca": "nokia"
+  },
+  {
+    "nome": "NOKIA 1.4",
+    "preco": 55.0,
+    "marca": "nokia"
+  },
+  {
+    "nome": "NOKIA 2.2",
+    "preco": 60.0,
+    "marca": "nokia"
+  },
+  {
+    "nome": "NOKIA 2.3",
+    "preco": 60.0,
+    "marca": "nokia"
+  },
+  {
+    "nome": "NOKIA 2.3  C/A ZL",
+    "preco": 110.0,
+    "marca": "nokia"
+  },
+  {
+    "nome": "NOKIA 2.4  ZL ",
+    "preco": 60.0,
+    "marca": "nokia"
+  },
+  {
+    "nome": "NOKIA 2.4 C/A  ZL",
+    "preco": 110.0,
+    "marca": "nokia"
+  },
+  {
+    "nome": "NOKIA 5.3 / 3.4",
+    "preco": 65.0,
+    "marca": "nokia"
+  },
+  {
+    "nome": "NOKIA 5.3  C/A  ZL",
+    "preco": 110.0,
+    "marca": "nokia"
+  },
+  {
+    "nome": "NOKIA 5.4 / 3.4  ZL",
+    "preco": 70.0,
+    "marca": "nokia"
+  },
+  {
+    "nome": "NOKIA 5.4  C/A  ZL",
+    "preco": 115.0,
+    "marca": "nokia"
+  },
+  {
+    "nome": "NOKIA 6.1",
+    "preco": 65.0,
+    "marca": "nokia"
+  },
+  {
+    "nome": "NOKIA C01  PLUS ",
+    "preco": 65.0,
+    "marca": "nokia"
+  },
+  {
+    "nome": "NOKIA C2",
+    "preco": 55.0,
+    "marca": "nokia"
+  },
+  {
+    "nome": "NOKIA C20",
+    "preco": 60.0,
+    "marca": "nokia"
+  },
+  {
+    "nome": "NOKIA C30 ZL",
+    "preco": 60.0,
+    "marca": "nokia"
+  },
+  {
+    "nome": "NOKIA C30  C/A ZL",
+    "preco": 110.0,
+    "marca": "nokia"
+  },
+  {
+    "nome": "NOKIA G11 PLUS",
+    "preco": 65.0,
+    "marca": "nokia"
+  },
+  {
+    "nome": "NOKIA G11 / G21  ZL",
+    "preco": 70.0,
+    "marca": "nokia"
+  },
+  {
+    "nome": "NOKIA G50",
+    "preco": 70.0,
+    "marca": "nokia"
+  },
+  {
+    "nome": "NOKIA X10  ",
+    "preco": 75.0,
+    "marca": "nokia"
+  },
+  {
+    "nome": "P30 PRO ORI ",
+    "preco": 370.0,
+    "marca": "huawei"
+  },
+  {
+    "nome": "P40 LITE ORI",
+    "preco": 100.0,
+    "marca": "huawei"
+  },
+  {
+    "nome": "INFINIX NOTE 10 PRO/ X695",
+    "preco": 75.0,
+    "marca": "infinix"
+  },
+  {
+    "nome": "INFINIX NOTE 11 PRO/ X698 / X697",
+    "preco": 75.0,
+    "marca": "infinix"
+  },
+  {
+    "nome": "INFINIX NOTE 12 PRO / X663 ORI ZL",
+    "preco": 170.0,
+    "marca": "infinix"
+  },
+  {
+    "nome": "INFINIX NOTE 12 PRO / X663 ORI ZL C/A",
+    "preco": 190.0,
+    "marca": "infinix"
+  },
+  {
+    "nome": "INFINIX HOT 8 LITE / X650 C/A ZL",
+    "preco": 100.0,
+    "marca": "infinix"
+  },
+  {
+    "nome": "INFINIX HOT 10 / NOTE 8I",
+    "preco": 65.0,
+    "marca": "infinix"
+  },
+  {
+    "nome": "INFINIX HOT 10 PLAY / HOT 11 PLAY /  X688",
+    "preco": 70.0,
+    "marca": "infinix"
+  },
+  {
+    "nome": "INFINIX HOT 10 PLAY  / X688  C/A ZL",
+    "preco": 95.0,
+    "marca": "infinix"
+  },
+  {
+    "nome": "INFINIX HOT 11 / X675",
+    "preco": 70.0,
+    "marca": "infinix"
+  },
+  {
+    "nome": "INFINIX HOT 11 / X675   C/A ZL",
+    "preco": 100.0,
+    "marca": "infinix"
+  },
+  {
+    "nome": "INFINIX HOT 11 / X689F/X6823C/SMART 6+/SPARK 7P/HOT 10S/HOT 10T",
+    "preco": 70.0,
+    "marca": "infinix"
+  },
+  {
+    "nome": "INFINIX HOT 11 / X689F  C/A  ZL",
+    "preco": 100.0,
+    "marca": "infinix"
+  },
+  {
+    "nome": "INFINIX HOT 11S/X6812/HOT 20 PRO/ X6827/ SPARK 8 PRO /KG8 /CG7",
+    "preco": 75.0,
+    "marca": "infinix"
+  },
+  {
+    "nome": "INFINIX HOT 11S / X6812 C/A ZL",
+    "preco": 100.0,
+    "marca": "infinix"
+  },
+  {
+    "nome": "INFINIX HOT 12 PLAY/ X6816  C/A  ZL",
+    "preco": 100.0,
+    "marca": "infinix"
+  },
+  {
+    "nome": "INFINIX HOT 12i / HOTE 20i / X665",
+    "preco": 75.0,
+    "marca": "infinix"
+  },
+  {
+    "nome": "INFINIX HOT 20i / X665  C/A ZL",
+    "preco": 100.0,
+    "marca": "infinix"
+  },
+  {
+    "nome": "INFINIX HOT 30 /X6831 / PARK 10 PRO/ NOTE 30 / X6833B ",
+    "preco": 80.0,
+    "marca": "infinix"
+  },
+  {
+    "nome": "INFINIX HOT 30i / SMART 7/SMART 7 PLUS/ POP 7/BF6/ S23/ X6517/ X669 ",
+    "preco": 70.0,
+    "marca": "infinix"
+  },
+  {
+    "nome": "INFINIX HOT 30i / X669  C/A  ZL",
+    "preco": 95.0,
+    "marca": "infinix"
+  },
+  {
+    "nome": "SPARK GO 2022 / KG5 ZL ",
+    "preco": 65.0,
+    "marca": "infinix"
+  },
+  {
+    "nome": "SPARK GO 2022 / KG5 ZL C/A",
+    "preco": 90.0,
+    "marca": "infinix"
+  },
+  {
+    "nome": "SPARK 6 GO",
+    "preco": 65.0,
+    "marca": "infinix"
+  },
+  {
+    "nome": "SPARK 6 GO / KE5  C/A  ZL",
+    "preco": 80.0,
+    "marca": "infinix"
+  },
+  {
+    "nome": "SPARK 8C/ SPARK 9T / SPARK 9 /KG5K/ KG5J  ZL ",
+    "preco": 70.0,
+    "marca": "infinix"
+  },
+  {
+    "nome": "SMART 6/ POP 5 LITE/ BD4/ BD4I/ X6511",
+    "preco": 65.0,
+    "marca": "infinix"
+  },
+  {
+    "nome": "SMART 6/X6511  C/A ZL",
+    "preco": 100.0,
+    "marca": "infinix"
+  },
+  {
+    "nome": "SMART 6 PLUS / X6823C / HOT 10S / X689B / HOT 10T / X689D/  SPARK 7P/ VISION 3 PLUS/  P38 PRO/ P682L ZL",
+    "preco": 70.0,
+    "marca": "infinix"
+  },
+  {
+    "nome": "SMART 8/ X6525 /SMART 8 PRO / SMART 8 PLUS/  HOT 40I / X6528B / SPARK 20 / X65256/ SPARK GO 2024 / SPARK 20C / KJ5 / BG6 / A70S/ A666L / POP 8 /BG7/ KJ5N/ BG6H/ P55+/ P55/ P55T/ RS4/ R24 ZL\n\n\n\n\n",
+    "preco": 70.0,
+    "marca": "infinix"
+  },
+  {
+    "nome": "SMART 9 /HOT 50I / HOT 50 5G / SPARK GO 1/1S / SPARK 30 5G/            SPARK 30C 4G/ 5G / POP 9 4G/5G / POVA 6 Neo 5G / A80 \n",
+    "preco": 70.0,
+    "marca": "infinix"
+  },
+  {
+    "nome": "P610/P615/P619",
+    "preco": 300.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "P205",
+    "preco": 250.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "T220     ",
+    "preco": 130.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "T225",
+    "preco": 140.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "T280",
+    "preco": 100.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "T285",
+    "preco": 100.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "T290",
+    "preco": 110.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "T295",
+    "preco": 120.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "T500",
+    "preco": 195.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "T510 / T515 ",
+    "preco": 190.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "T720",
+    "preco": 1000.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "T875 / T870",
+    "preco": 260.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "X200/X205",
+    "preco": 230.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "X210/X215",
+    "preco": 230.0,
+    "marca": "samsung"
+  },
+  {
+    "nome": "IPAD  11 PRO  11 POL   ORI",
+    "preco": 800.0,
+    "marca": "iphone"
+  },
+  {
+    "nome": "IPAD  11 PRO  12.9 POL   ORI",
+    "preco": 1200.0,
+    "marca": "iphone"
+  },
+  {
+    "nome": "IPAD  MINI 6  ORI (2021)",
+    "preco": 1150.0,
+    "marca": "iphone"
+  }
+]

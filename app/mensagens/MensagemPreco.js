@@ -32,18 +32,18 @@ function verificarPedidoPreco(msg) {
     const mensagem = normalizarTexto(msg);
 
     // Verifica se tem palavra de preço ou peça
-    const temKeyPreco = palavraChavePreco.some((p) => mensagem.includes(p));
-    const temKeyPeca = palavraChavePeca.some((p) => mensagem.includes(p));
+    const KeyPreco = palavraChavePreco.some((p) => mensagem.includes(p));
+    const KeyPeca = palavraChavePeca.some((p) => mensagem.includes(p));
 
-    if (temKeyPreco || temKeyPeca) {
-        return { isPedido: true, metodo: "keyword" };
+    if (KeyPreco || KeyPeca) {
+        return { pedido: true };
     }
 
     if (regexPreco.test(mensagem)) {
-        return { isPedido: true, metodo: "regex" };
+        return { pedido: true };
     }
 
-    return { isPedido: false, metodo: null };
+    return { pedido: false };
 }
 
 module.exports = { verificarPedidoPreco };
